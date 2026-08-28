@@ -877,20 +877,3 @@ If you use the analysis or results, please cite the associated paper:
 }
 ```
 
-Update this entry if the paper is later formally published.
-
----
-
-# 27. Reproducibility Link for the Paper
-
-A concise sentence suitable for the paper is:
-
-> **The analysis notebook, benchmark results, and supporting reproducibility materials are publicly available at: [GitHub repository URL].**
-
-Or in LaTeX:
-
-```latex
-The analysis notebook, benchmark results, and supporting reproducibility
-materials are publicly available at
-\url{YOUR_GITHUB_REPOSITORY_URL}.
-```
